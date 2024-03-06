@@ -4,7 +4,7 @@
  * PROJETO: Fuses.h
  * VERSAO: 01
  * DESCRICAO: - feat: Configurações de bits de configuração PIC18F47K40
- *            - docs: MPLAB X IDE v6.15 - Compilador XC8 2.41 - PICSimLab Simulador 0.9.1
+ *            - docs: MPLAB X IDE v6.20 - Compilador XC8 2.46 - PICSimLab Simulador 0.9.1
  * LINKS: - 
 */
 

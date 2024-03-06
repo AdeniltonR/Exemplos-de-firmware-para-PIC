@@ -17084,6 +17084,7 @@ void main(void) {
 
 
     RB0 = 0;
+
     while (1) {
         RB0 = 1;
         _delay((unsigned long)((500)*(8000000/4000.0)));

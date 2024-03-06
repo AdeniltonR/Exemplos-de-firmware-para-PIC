@@ -58,13 +58,13 @@ Este documento tem como objetivo demonstrar como configurar o simulador PICSimLa
 
 ## Configuração do simulador PICSimLab
 
-💡 [Para baixar e instalar PICSimLab;](https://www.notion.so/Configura-o-de-Ambiente-ca71f333795e4a3690b7c21a5a820887?pvs=21)
+💡 [Para baixar e instalar PICSimLab;](https://github.com/AdeniltonR/Exemplos-de-firmware-para-PIC/blob/main/README.md)
 
 `[Adicionar uma imagem]`
 
 ## Configuração do Firmware
 
-💡 [Para baixar e instalar MPLAB e XC8;](https://www.notion.so/Configura-o-de-Ambiente-ca71f333795e4a3690b7c21a5a820887?pvs=21)
+💡 [Para baixar e instalar MPLAB e XC8;](https://github.com/AdeniltonR/Exemplos-de-firmware-para-PIC/blob/main/README.md)
 
 `[Adicionar uma imagem]`
 

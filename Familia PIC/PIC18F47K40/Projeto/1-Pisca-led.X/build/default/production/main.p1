@@ -1503,29 +1503,29 @@ Version 4.0 HI-TECH Software Intermediate Code
 "46
 [; ;main.c: 46:     RB0 = 0;
 [e = _RB0 -> -> 0 `i `b ]
-"47
-[; ;main.c: 47:     while (1) {
+"48
+[; ;main.c: 48:     while (1) {
 [e :U 1501 ]
 {
-"48
-[; ;main.c: 48:         RB0 = 1;
-[e = _RB0 -> -> 1 `i `b ]
 "49
-[; ;main.c: 49:         _delay((unsigned long)((500)*(8000000/4000.0)));
-[e ( __delay (1 -> * -> -> 500 `i `d / -> -> 8000000 `l `d .4000.0 `ul ]
+[; ;main.c: 49:         RB0 = 1;
+[e = _RB0 -> -> 1 `i `b ]
 "50
-[; ;main.c: 50:         RB0 = 0;
-[e = _RB0 -> -> 0 `i `b ]
-"51
-[; ;main.c: 51:         _delay((unsigned long)((500)*(8000000/4000.0)));
+[; ;main.c: 50:         _delay((unsigned long)((500)*(8000000/4000.0)));
 [e ( __delay (1 -> * -> -> 500 `i `d / -> -> 8000000 `l `d .4000.0 `ul ]
+"51
+[; ;main.c: 51:         RB0 = 0;
+[e = _RB0 -> -> 0 `i `b ]
 "52
-[; ;main.c: 52:   }
+[; ;main.c: 52:         _delay((unsigned long)((500)*(8000000/4000.0)));
+[e ( __delay (1 -> * -> -> 500 `i `d / -> -> 8000000 `l `d .4000.0 `ul ]
+"53
+[; ;main.c: 53:   }
 }
 [e :U 1500 ]
 [e $U 1501  ]
 [e :U 1502 ]
-"53
-[; ;main.c: 53: }
+"54
+[; ;main.c: 54: }
 [e :UE 1499 ]
 }

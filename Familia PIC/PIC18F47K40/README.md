@@ -35,9 +35,9 @@ Configuração do microcontrolador:
 
 ## Projetos
 
-[1 - Pisca Led;](https://www.notion.so/Pisca-Led-7fd870b5c62d4f4c953e9feeba2722f3?pvs=21)
+[1 - Pisca Led;](https://github.com/AdeniltonR/Exemplos-de-firmware-para-PIC/tree/main/Familia%20PIC/PIC18F47K40/Projeto/1-Pisca-led.X)
 
-[2 - Botão;](https://www.notion.so/Bot-o-679c283037604d41a5e03908286d29ae?pvs=21)
+[2 - Botão;]()
 
 3 - Leitura Analógica;
 
@@ -227,4 +227,4 @@ Com essas linhas adicionadas, salve o arquivo `fuses.h` e vá para o arquivo `ma
 
 Para finalizar a configuração do projeto, no arquivo `fuses.h`, na linha 44, altere `#pragma config WDTE = ON` para `#pragma config WDTE = OFF` e salve o arquivo:
 
-Seu ambiente e microcontrolador estão configurados e prontos para começar a trabalhar nos [projetos](https://www.notion.so/Configura-o-MCU-b34d764434ec41129508b3e5699abe8f?pvs=21).
+Seu ambiente e microcontrolador estão configurados e prontos para começar a trabalhar nos [projetos](https://github.com/AdeniltonR/Exemplos-de-firmware-para-PIC/tree/main/Familia%20PIC/PIC18F47K40).
