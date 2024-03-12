@@ -1,0 +1,35 @@
+### HEXMate logfile and output summary ###
+
+### Command-line arguments ###
+ C:\Users\ADENIL~1.RIB\AppData\Local\Temp\xcAslg0.\driver_tmp_3.o
+ -Odist/default/debug\1-Pisca-led.X.debug.hex
+ -logfile=dist/default/debug\1-Pisca-led.X.debug.hxl
+ -addressing=1
+ -break=300000
+
+### Memory Usage ###
+ Input file ranges:
+  0h - 3h		(C:\Users\ADENIL~1.RIB\AppData\Local\Temp\xcAslg0.\driver_tmp_3.o)
+  F00h - F43h		(C:\Users\ADENIL~1.RIB\AppData\Local\Temp\xcAslg0.\driver_tmp_3.o)
+  300000h - 30000Bh		(C:\Users\ADENIL~1.RIB\AppData\Local\Temp\xcAslg0.\driver_tmp_3.o)
+ Unused ranges:
+  4h - EFFh
+  F44h - 2FFFFFh
+
+### Hex Memory Map ###
+ Legend:
+  -- = Unused memory
+  H1 = Input file             (C:\Users\ADENIL~1.RIB\AppData\Local\Temp\xcAslg0.\driver_tmp_3.o)
+----------------------------------------------------------
+         | 00 01 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F
+----------------------------------------------------------
+00000000 | H1 H1 H1 H1 -- -- -- -- -- -- -- -- -- -- -- --
+----------------------------------------------------------
+00000F00 | H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1
+00000F10 | H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1
+00000F20 | H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1
+00000F30 | H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1
+00000F40 | H1 H1 H1 H1 -- -- -- -- -- -- -- -- -- -- -- --
+----------------------------------------------------------
+00300000 | H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 H1 -- -- -- --
+00300010 | --

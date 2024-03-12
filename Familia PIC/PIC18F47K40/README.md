@@ -227,4 +227,12 @@ Com essas linhas adicionadas, salve o arquivo `fuses.h` e vá para o arquivo `ma
 
 Para finalizar a configuração do projeto, no arquivo `fuses.h`, na linha 44, altere `#pragma config WDTE = ON` para `#pragma config WDTE = OFF` e salve o arquivo:
 
+Depois de concluir toda a programação, basta posicionar o cursor sobre o ícone do projeto `1-Pisca-led`, clicar com o botão direito do mouse e selecionar `Build`:
+
+![codigo_5.png](Docs/codigo_5.png)
+
+Se o código foi digitado corretamente, você verá uma mensagem de sucesso:
+
+![codigo_6.png](Docs/codigo_6.png)
+
 Seu ambiente e microcontrolador estão configurados e prontos para começar a trabalhar nos [projetos](https://github.com/AdeniltonR/Exemplos-de-firmware-para-PIC/tree/main/Familia%20PIC/PIC18F47K40).
