@@ -37,7 +37,7 @@ Configuração do microcontrolador:
 
 [1 - Pisca Led;](https://github.com/AdeniltonR/Exemplos-de-firmware-para-PIC/tree/main/Familia%20PIC/PIC18F47K40/Projeto/1-Pisca-led.X)
 
-[2 - Botão;]()
+2 - Botão;
 
 3 - Leitura Analógica;
 

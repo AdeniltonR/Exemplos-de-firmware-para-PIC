@@ -39,7 +39,7 @@ Este documento tem como objetivo demonstrar como configurar o simulador PICSimLa
 
 ## Fluxograma
 
-`[Adicionar uma imagem]`
+![Fluxograma.png](Docs/Fluxograma.png)
 
 ## Pinos do projeto eletrônico
 
