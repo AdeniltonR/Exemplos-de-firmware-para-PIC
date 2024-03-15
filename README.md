@@ -29,15 +29,15 @@ Este documento visa fornecer orientações para a instalação dos softwares nec
 
 Softwares a serem instalados:
 
-📥 [MPLAB X IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide#tabs)
+📥 [`MPLAB X IDE`](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide#tabs)
 
-📥 [Compilador XC8](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers/xc8)
+📥 [`Compilador XC8`](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers/xc8)
 
-📥 [PICSimLab](https://sourceforge.net/projects/picsim/)
+📥 [`PICSimLab`](https://sourceforge.net/projects/picsim/)
 
 Configuração do microcontrolador:
 
-⚙️ [PIC18F47K40](https://github.com/AdeniltonR/Exemplos-de-firmware-para-PIC/tree/main/Familia%20PIC/PIC18F47K40)
+⚙️ [`PIC18F47K40`](https://github.com/AdeniltonR/Exemplos-de-firmware-para-PIC/tree/main/Familia%20PIC/PIC18F47K40)
 
 ## Informações Adicionais
 
