@@ -37,7 +37,7 @@ Softwares a serem instalados:
 
 Configuração do microcontrolador:
 
-⚙️ [`PIC18F47K40`](https://github.com/AdeniltonR/Exemplos-de-firmware-para-PIC/tree/main/Familia%20PIC/PIC18F47K40)
+⚙️ [`PIC18F47K40`](https://github.com/AdeniltonR/Exemplos-de-firmware-para-PIC/blob/main/Familia%20PIC/PIC18F47K40/README.md)
 
 ## Informações Adicionais
 
