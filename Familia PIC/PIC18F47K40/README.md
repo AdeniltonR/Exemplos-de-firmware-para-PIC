@@ -235,4 +235,4 @@ Se o código foi digitado corretamente, você verá uma mensagem de sucesso:
 
 ![codigo_6.png](Docs/codigo_6.png)
 
-Seu ambiente e microcontrolador estão configurados e prontos para começar a trabalhar nos [projetos](https://github.com/AdeniltonR/Exemplos-de-firmware-para-PIC/tree/main/Familia%20PIC/PIC18F47K40).
+Seu ambiente e microcontrolador estão configurados e prontos para começar a trabalhar nos [projetos](https://github.com/AdeniltonR/Exemplos-de-firmware-para-PIC/blob/main/Familia%20PIC/PIC18F47K40/README.md).

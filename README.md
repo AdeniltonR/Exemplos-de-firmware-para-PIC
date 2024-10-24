@@ -135,7 +135,7 @@ Na próxima página, clique em `Concluir`:
 
 ![PICSimLab_7.png](Docs/PICSimLab_7.png)
 
-E seu ambiente estará totalmente instalado. Para configurá-lo para o microcontrolador, basta acessar a página de [configuração MCU](https://github.com/AdeniltonR/Exemplos-de-firmware-para-PIC/tree/main/Familia%20PIC/PIC18F47K40):
+E seu ambiente estará totalmente instalado. Para configurá-lo para o microcontrolador, basta acessar a página de [configuração MCU](https://github.com/AdeniltonR/Exemplos-de-firmware-para-PIC/blob/main/Familia%20PIC/PIC18F47K40/README.md):
 
 ## Informações
 
